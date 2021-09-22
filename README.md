@@ -2,7 +2,9 @@
 
 ## Data
 
-The data I propose to visualize for my project is the global Earthquake dataset in 1900-1999. 
+The data I propose to visualize for my project is the global earthquake dataset in 1900-1999.
+
+Data link: [Junying Li's Gist](https://gist.github.com/Junying-Li/72ef4641efd6b4abf371f5d9f4267a56)
 
 ## Prototypes
 
