@@ -12,7 +12,11 @@ I’ve created a proof of concept visualization of this data. Here are prototype
 
 ![image](project-prototype.PNG)
 
+*Figure-1 Bar Plot*
+
 ![image](map-prototype.PNG)
+
+*Figure-2 Bubble World Map*
 
 ## Questions & Tasks
 
@@ -26,13 +30,15 @@ The following tasks and questions will drive the visualization and interaction d
 
 ![image](finalSketch.png)
 
+*Figure-3 Project Sketch*
+
 The sketch contains 2 linked interactive visualizations, which are a bar plot, and a bubble world map. 
 
 The bar plot shows the total deaths of different regions, and the bubble world map shows where the earthquakes occured and how strong the earthquakes were (by richter scale), just like the prototypes above. The 2 visualizations are linked, bar plot and bubble world map will show filtered data in selected timeslot. 
 
 ## Interactions
 
-There is also interactive part of this project. As you can see in the sketch, there are two drop down menus on the top this visualization. One menu for choosing start year and the other for choosing end year. When user chooses a time slot, bar plot and buuble world map will update to show filtered data in selected time slot immidiately.
+There is also interactive part in this project. As you can see in the sketch, there are two drop down menus on the top this visualization. One menu for choosing start year and the other for choosing end year. When user chooses a time slot, bar plot and buuble world map will update to show filtered data in selected time slot immidiately.
 
 ## How this visualization answers questions
 
