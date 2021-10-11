@@ -38,7 +38,7 @@ The bar plot shows the total deaths of different regions, and the bubble world m
 
 ## Interactions
 
-There is also interactive part in this project. As you can see in the sketch, there are two drop down menus on the top this visualization. One menu for choosing start year and the other for choosing end year. When user chooses a time slot, bar plot and buuble world map will update to show filtered data in selected time slot immidiately.
+There is also interactive part in this project. As you can see in the sketch, there are two drop down menus on the top. One menu for choosing start year and the other for choosing end year. When user chooses a time slot, bar plot and buuble world map will update to show filtered data in selected time slot immidiately.
 
 ## How this visualization answers questions
 
