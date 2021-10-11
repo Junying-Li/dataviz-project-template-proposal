@@ -22,7 +22,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-![image](project-sketch.png)
+![image](finalSketch.png)
 
 The sketch contains 3 linked visualizations, which are a bar plot, a world map, and a timescale. 
 
