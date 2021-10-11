@@ -8,9 +8,11 @@ Data link: [Junying Li's Gist](https://gist.github.com/Junying-Li/72ef4641efd6b4
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a bar plot and it shows the deaths in earthquakes of different regions. 
+I’ve created a proof of concept visualization of this data. Here are prototypes of a bar plot and a bubble world map. The bar plot shows the total deaths in earthquakes of different regions. The bubbles on world map shows the positions where earthquakes occured and the radius shows richter of earthquakes.
 
 ![image](project-prototype.PNG)
+
+![image](map-prototype.PNG)
 
 ## Questions & Tasks
 
@@ -24,13 +26,19 @@ The following tasks and questions will drive the visualization and interaction d
 
 ![image](finalSketch.png)
 
-The sketch contains 3 linked visualizations, which are a bar plot, a world map, and a timescale. 
+The sketch contains 2 linked interactive visualizations, which are a bar plot, and a bubble world map. 
 
-The bar plot shows the deaths of different regions, just like the prototype above. The world map shows where the earthquakes occured by adding circles on the map. And the radius of circles shows the Richter, in other words, the higher the Richter, the bigger the circle. And the timescale should allow users to chose timeslot by a sliding window. These 3 visualizations are linked, bar plot and world map will show data points of selected timeslot. 
+The bar plot shows the total deaths of different regions, and the bubble world map shows where the earthquakes occured and how strong the earthquakes were (by richter scale), just like the prototypes above. The 2 visualizations are linked, bar plot and bubble world map will show filtered data in selected timeslot. 
 
-Making use of the timescale can help to answer the first question (How often did earthquakes occur from 1900 to 1999?). In selected timeslot, more circles in world map means more earthquakes occured. Since the bar plot and world map are linked, we can answer the second question (Is there any correlation between Richter and deaths?) by comparing the death and radius of circle. The world map view can help to answer the third question and the fourth (Where did earthquakes occur most? Did earthquakes always happen in the edges of earth's crust?) by the distribution of circles on the map.
+## Interactions
+
+There is also interactive part of this project. As you can see in the sketch, there are two drop down menus on the top this visualization. One menu for choosing start year and the other for choosing end year. When user chooses a time slot, bar plot and buuble world map will update to show filtered data in selected time slot immidiately.
+
+## How this visualization answers questions
+
+Making use of the drop down menu can help to answer the first question (How often did earthquakes occur from 1900 to 1999?). In selected timeslot, more circles in world map means more earthquakes occured. Since the bar plot and world map are linked, we can answer the second question (Is there any correlation between Richter and deaths?) by comparing the total deaths and radius of circles of each region. The world map view can help to answer the third question and the fourth (Where did earthquakes occur most? Did earthquakes always happen in the edges of earth's crust?) by the distribution of circles on the map.
 
 
 ## Open Questions
 
-I don't know what's the best way to link the 3 visualizations together. Also, I'm not sure if I needed to preprocess the dataset, for instance, adding latitude and longitude for each region.
+How to add mouse even on transitional visualization?
