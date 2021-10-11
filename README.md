@@ -47,4 +47,4 @@ Making use of the drop down menu can help to answer the first question (How ofte
 
 ## Open Questions
 
-How to add mouse even on transitional visualization?
+How to add mouse even on transitional visualizations?
