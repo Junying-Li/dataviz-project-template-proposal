@@ -38,9 +38,13 @@ The bar plot shows the total deaths of different regions, and the bubble world m
 
 ## Interactions
 
-There is also an interactive part in this project. 
+This project also has interactions. 
 
+- Drop down menus
 As you can see in the sketch, there are two drop-down menus on the top. One menu for choosing start year from 1900 to 1999 and the other for choosing end year from 1999 to 1900. When the user chooses a time slot, the bar plot and bubble world map will update to show filtered data in the selected time slot immediately.
+
+- Tooltips
+When user put mouse over or out on the world map, there will be a tooltip shows the country's name. In addition, the selected country will be emphasized by heavier color.
 
 ## How this visualization answers questions
 
@@ -55,8 +59,9 @@ Making use of the drop-down menu can help to answer the first question (How ofte
 - Make sure bar plot works well using data filtered by the ouput of drop down menu. (0.5 day / 10.14)
 - Add bubbles on world map using data filtered by the ouput of drop down menu. (2 days / 10.20)
 - Add legend for map. (0.5 day / 10.22)
-- Remove buttons. (0.5 day / 10.22)
-- Add title and other useful text. (0.5 day / 10.23)
-- Change layout of page elements. (0.5 day / 10.23)
-- Make sure the whole project works well. (1 day / 10.25)
-- Submit final project. (1 day / 10.26)
+- Add tooltips for map. (1 day / 10.23)
+- Remove buttons. (0.5 day / 10.23)
+- Add title and other useful text. (0.5 day / 10.24)
+- Change layout of page elements. (0.5 day / 10.24)
+- Make sure the whole project works well. (1 day / 10.26)
+- Submit final project. (1 day / 10.27)
