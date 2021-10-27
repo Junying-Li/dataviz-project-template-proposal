@@ -22,6 +22,8 @@ I’ve created a proof of concept visualization of this data. Here are prototype
 
 ![image](iterated_brush_tooltips.PNG)
 
+Link: https://vizhub.com/Junying-Li/c51fe87e3c5d48a4b5794ec903f35da4
+
 In this visualization, I added a scatter plot to show the distribution of earthquakes over time, the scatter plot also shows deaths of earthquakes by the circles' radius. 
 
 To interactive with users, I added a brush on the scatter plot. User can select a time slot by using the brush. Circles in the selected time slot will change color to red, and the bar chart and bubble world map will show data in selected time slot. User can also select all data points by double click the scatter plot, or unselect a time slot by double click on selected zone.
