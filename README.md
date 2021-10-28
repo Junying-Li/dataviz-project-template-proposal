@@ -30,7 +30,7 @@ To interactive with users, I added a brush on the scatter plot. User can select 
 
 I also added tooltips and legend to the bubble world map, when users put their mouse on the map, the tooltip will show the country or region name of it.
 
-For future work, I will create another bar plot that shows the total deaths of different years, then linked it with other visualizations by brush.
+For future work, I will create another bar plot that shows the total deaths of different years, then link it with other visualizations by brush.
 
 ## Questions & Tasks
 
