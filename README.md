@@ -20,7 +20,7 @@ I’ve created a proof of concept visualization of this data. Here are prototype
 
 ## Iterated visualizations
 
-10.27
+- 10.27
 
 ![image](iterated_brush_tooltips.PNG)
 
@@ -34,13 +34,15 @@ I also added tooltips and legend to the bubble world map, when users put their m
 
 For future work, I will create another bar plot that shows the total deaths of different years, then link it with other visualizations by brush.
 
-11.10
+- 11.10
 
 ![image](dropdown.png)
 
 Link: [Iterated work - dropdown menus](https://vizhub.com/Junying-Li/b7235be55f544d108affb47ca80fbb16)
 
-In this visualization, I added two dropdown menus as I designed in my sketch. Users can choose start date and end date by utilizing the dropdown menus.
+In this visualization, I added two dropdown menus as I designed in my sketch. Users can choose start date and end date by utilizing the dropdown menus. Now, everything in my sketch has been implemented. 
+
+For future work, I will create a bar plot or a line chart and make it link with other visualizations.
 
 ## Questions & Tasks
 
