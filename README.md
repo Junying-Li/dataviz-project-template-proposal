@@ -18,9 +18,21 @@ I’ve created a proof of concept visualization of this data. Here are prototype
 
 *Figure-2 Bubble World Map*
 
+- Update 11.17
+
+For this week's update, I create a new visualization prototype just as I've planned last week. As you can see in Figure-3, it is a line chart. The X-axis shows the timeline (year), and the Y-axis shows the global total deaths in each year. I also added a brush to it to make it interactive. The features of the brush are the same as the update on 10.27. 
+
+What I've learned this week are d3.group and d3.rollup. To summarize the global total deaths for each year, I decided to find relevant API functions in d3 instead of simply utilizing algorithms and data structures in JavaScript. After searching and reading documents for a while, I found d3.group and d3.rollup fit my requirements pretty well. In the end, I successfully implemented my new visualization by making use of these two API functions.
+
+For future work, I will put this prototype to my main project, and make it linked with the other two visualizations.
+
+![image](lineChart.PNG)
+
+*Figure-3 Line Chart*
+
 ## Iterated visualizations
 
-- 10.27
+- Update 10.27
 
 ![image](iterated_brush_tooltips.PNG)
 
@@ -34,7 +46,7 @@ I also added tooltips and legend to the bubble world map, when users put their m
 
 For future work, I will create another bar plot that shows the total deaths of different years, then link it with other visualizations by brush.
 
-- 11.10
+- Update 11.10
 
 ![image](dropdown.png)
 
