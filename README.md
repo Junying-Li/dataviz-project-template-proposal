@@ -56,6 +56,15 @@ In this visualization, I added two dropdown menus as I designed in my sketch. Us
 
 For future work, I will create a bar plot or a line chart and make it link with other visualizations.
 
+- Update 11.23
+
+![image](lineChartMultiView.PNG)
+
+Link: [Iterated work - line chart & brush](https://vizhub.com/Junying-Li/bd4c4ab2541e4f648df2a536976973aa)
+
+For this week's update, I embeded the line chart to my multi view visualization. The bar plot and bubble world map are linked with the line chart by brush.
+
+
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
