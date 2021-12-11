@@ -6,6 +6,10 @@ The data I propose to visualize for my project is the global earthquake dataset 
 
 Data link: [Junying Li's Gist](https://gist.github.com/Junying-Li/72ef4641efd6b4abf371f5d9f4267a56)
 
+## Intro Video
+
+Intro video on Youtube: [CS573 Final Project Video](https://youtu.be/dqsqsrSXz0c)
+
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. Here are prototypes of a bar plot and a bubble world map. The bar plot shows the total deaths in earthquakes of different regions. The bubbles on world map show the positions where earthquakes occurred and the radius shows Richter of earthquakes.
